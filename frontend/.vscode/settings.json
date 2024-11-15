@@ -1,0 +1,9 @@
+{
+  "todo-tree.highlights.customHighlight": {
+    "BUG": {
+      "foreground": "#F00",
+      "iconColour": "#F00",
+      "gutterIcon": true
+    }
+  }
+}

@@ -1,0 +1,5 @@
+export enum PRIORIDADE_ORDEM_SERVICO {
+  BAIXA = "BAIXA",
+  MEDIA = "MEDIA",
+  ALTA = "ALTA",
+}

@@ -1,0 +1,4 @@
+export enum STATUS_FATURA {
+  PENDENTE = "PENDENTE",
+  QUITADA = "QUITADA",
+}

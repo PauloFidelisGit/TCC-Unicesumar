@@ -1,0 +1,12 @@
+[INFO - 15/11/2024, 11:23:02] Inicializando MariaDb
+[INFO - 15/11/2024, 11:23:02] Testando conexão 172.18.0.2/aeonadv 
+[INFO - 15/11/2024, 11:23:02] Inicializando MariaDb
+[INFO - 15/11/2024, 11:23:02] Testando conexão 172.18.0.2 
+[INFO - 15/11/2024, 11:23:02] Banco de dados "aeonadv" criado com sucesso!
+[INFO - 15/11/2024, 11:23:02] Inicializando MariaDb
+[INFO - 15/11/2024, 11:23:02] Testando conexão 172.18.0.2/aeonadv 
+[INFO - 15/11/2024, 11:23:03] Todas as tabelas da base "aeonadv" foram criadas com sucesso!
+[INFO - 15/11/2024, 11:23:23] Inicializando MariaDb
+[INFO - 15/11/2024, 11:23:23] Testando conexão 172.18.0.2/aeonadv 
+[INFO - 15/11/2024, 11:23:23] Starting express server
+[INFO - 15/11/2024, 11:23:23] Servidor online: https://127.0.0.1:4000/graphql
