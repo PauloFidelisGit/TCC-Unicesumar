@@ -1,3 +1,8 @@
+# ALUNO
+Paulo Fidélis Miranda Gomes
+R.A: 21104141-5
+Curso: Bacharelado em Engenharia de Software
+
 # 1. PRÉ-REQUISITOS
 * Node v20 ou superior
 * Docker e Docker-compose
